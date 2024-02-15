@@ -4,3 +4,8 @@
 #     forward (100)
 #     left (360)z
 print ("банан")
+
+
+
+
+
